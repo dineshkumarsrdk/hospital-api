@@ -1,4 +1,4 @@
-import ReportRepository from '../repositories/ReportRepository.js';
+import ReportRepository from '../repositories/reportRepository.js';
 
 export default class ReportContoller {
     constructor() {
