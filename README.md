@@ -25,6 +25,15 @@ Please remember to add the environment variables. You can always use the postman
 - Doctor can create test report for a patient
 - Doctors can filter and view patient's report
 
+## API Endpoints
+
+- POST: https://hospital-api-x96e.onrender.com/api/doctors/register 
+- POST: https://hospital-api-x96e.onrender.com/api/doctors/login 
+- POST: https://hospital-api-x96e.onrender.com/api/patients/register
+- POST: https://hospital-api-x96e.onrender.com/api/patients/:id/create_report
+- GET: https://hospital-api-x96e.onrender.com/api/patients/:id/all_reports
+- GET: https://hospital-api-x96e.onrender.com/api/reports/:status
+
 ## Tech
 
 Tools used in this project
